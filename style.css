@@ -1,4 +1,7 @@
-.contaier-fluid{
-bg-warning
-  
+body {
+  color: blue;
+}
+
+h1 {
+  color: green;
 }
