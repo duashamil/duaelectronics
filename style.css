@@ -1,5 +1,5 @@
 .carousel-item img{
-    height: 40rem;
+    height: 30rem;
 }
 .carousel-item h4,p{
     color: rgb(22, 5, 5);
@@ -8,9 +8,7 @@
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-    .carousel-item img{
-    height: 30rem;
-    }
+
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
