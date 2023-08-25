@@ -8,8 +8,7 @@
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-    .carousel-item img{
-    height: 25rem;
+    
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -18,7 +17,10 @@
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {...}
+@media only screen and (max-width: 768px) {
+    .carousel-item img{
+    height: 25rem;
+}
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {...}
