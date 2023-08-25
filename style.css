@@ -8,7 +8,9 @@
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-    
+    .carousel-item img{
+    height: 10rem;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
